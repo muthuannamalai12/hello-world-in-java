@@ -21,7 +21,7 @@ Notice that `System.out.println("Hello world!");` shows the string `"Hello world
 To compile the "Hello World" program, type the following:
 
 ```console
-javac HelloWorld.java
+javac helloWorld.java
 ```
 
 ## Excute the program
@@ -29,5 +29,5 @@ javac HelloWorld.java
 To execute the program, type this:
 
 ```console
-java HelloWorld
+java helloWorld
 ```
